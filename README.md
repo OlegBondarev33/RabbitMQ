@@ -22,7 +22,8 @@
 Используя Vagrant или VirtualBox, создайте виртуальную машину и установите RabbitMQ.
 Добавьте management plug-in и зайдите в веб-интерфейс.
 
-*Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.*
+![image](https://github.com/user-attachments/assets/620bfdba-33a6-408e-8969-2c8436e9d2b9)
+
 
 ---
 
