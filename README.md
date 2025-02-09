@@ -68,6 +68,7 @@ $ cat /etc/hosts
 Затем объедините две машины в кластер и создайте политику ha-all на все очереди.
 
 ![image](https://github.com/user-attachments/assets/c6df400f-a422-4cf7-b1ea-a37ce62c33f4)
+![image](https://github.com/user-attachments/assets/d1577d58-6003-4e6b-9ad4-e946ebcdc018)
 
 
 Также приложите вывод команды с двух нод:
