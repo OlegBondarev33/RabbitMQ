@@ -69,22 +69,7 @@ $ cat /etc/hosts
 
 ![image](https://github.com/user-attachments/assets/d1577d58-6003-4e6b-9ad4-e946ebcdc018)
 ![image](https://github.com/user-attachments/assets/0485699a-b222-4879-a172-b2cc13ab0fd5)
+![image](https://github.com/user-attachments/assets/8eb331f6-6d9f-49c0-aabf-f43995cb3dd4)
 
 
-
-Также приложите вывод команды с двух нод:
-
-```shell script
-$ rabbitmqctl cluster_status
-```
-
-Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
-
-```shell script
-$ rabbitmqadmin get queue='hello'
-```
-
-После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
-
-*Приложите скриншот результата работы второго скрипта.*
 
